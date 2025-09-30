@@ -1,22 +1,16 @@
 John Doe
-Software Developer
 Email: john.doe@email.com
 Phone: +91-9876543210
 
 SKILLS:
-Python, Java, SQL, AWS, Docker, JavaScript, React, MySQL, PostgreSQL
+Python, Java, SQL, AWS, Docker
 
 EDUCATION:
 Bachelor of Technology in Computer Science
-XYZ University, 2020-2024
+XYZ University
 
 EXPERIENCE:
 Software Developer at ABC Company
-- Developed web applications using Python and Django
-- Managed MySQL databases with SQL
-- Deployed applications on AWS EC2
-- Used Docker for containerization
-
-PROJECTS:
-E-commerce Website - Built with React and Node.js
-Machine Learning Model - Python, scikit-learn
+- Developed web applications using Python
+- Managed databases with SQL
+- Deployed applications on AWS
