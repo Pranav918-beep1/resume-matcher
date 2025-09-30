@@ -1,0 +1,2 @@
+resume_file,jd_file,candidate_name,email,phone,match_score,resume_skills_count,jd_skills_count,matched_skills_count,reasons
+test_resume.txt,test_jd.txt,test_resume,john.doe@email.com,+91-9876543210,80.0,13,10,8,"Found: python, java, javascript, sql, aws... | Missing: kubernetes, mongodb | Excellent match!"

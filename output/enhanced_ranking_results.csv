@@ -1,0 +1,3 @@
+resume_file,jd_file,candidate_name,email,phone,organizations,education,match_score,resume_skills_count,jd_skills_count,matched_skills_count,reasons
+test_resume.txt,test_jd.txt,"John Doe
+Software Developer",john.doe@email.com,+91-9876543210,"ABC Company, Website - Built with React, JavaScript","Bachelor of Technology in Computer Science, XYZ University, 2020-2024",80.0,13,10,8,"Found: python, java, javascript, sql, aws... | Missing: kubernetes, mongodb | Excellent match!"

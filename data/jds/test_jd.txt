@@ -1,0 +1,22 @@
+Python Developer Job Description
+
+We are looking for a skilled Python Developer with experience in:
+
+REQUIRED SKILLS:
+- Python programming
+- Django framework
+- SQL databases
+- AWS cloud services
+- Docker containerization
+
+NICE TO HAVE:
+- Kubernetes
+- MongoDB
+- JavaScript
+- React
+- Machine Learning
+
+RESPONSIBILITIES:
+- Develop and maintain web applications
+- Design and optimize databases
+- Deploy and manage cloud infrastructure
