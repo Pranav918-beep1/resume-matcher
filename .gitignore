@@ -20,3 +20,5 @@ Thumbs.db
 # Data files (optional - remove if you want to keep sample data)
 # data/
 # output/
+venv/
+__pycache__/
