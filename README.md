@@ -14,7 +14,7 @@ This project matches candidate resumes against a given job description and ranks
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 
 resume-matcher/
 ├── app.py # Main Streamlit app
